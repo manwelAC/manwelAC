@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi! I'm Manwel, I'm currently a 4th Year BS Com Science student. I'm still learning and still making ways to learn the computer science world.</p>
+<p align="left">Hi! I'm Manwel, I'm currently a 4th Year BS Com Science student. I'm still learning and still making ways to learn the computer science world. Coding's not really a passion for me, it's something that will make me a better person so in order for me to  live a better life "I HAVE TO CODE"</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently learning: APP DEV<br>📚 Studying at University Of Caloocan City<br>🎯 Goals: to be a Full Stack Developer<br>👾 Mainly plays Call of Duty: Mobile</p>
+<p align="left">✨ Currently learning: APP DEV<br>📚 Studying at University Of Caloocan City<br>🎯 Goals: to be able to say "College, Basic"<br>👾 Mainly plays Call of Duty: Mobile</p>
 
 ###
 
