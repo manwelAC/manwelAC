@@ -45,8 +45,8 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://i.pinimg.com/736x/bd/d1/53/bdd15371cb245054a9828e5993866de3.jpg"  />
+<div align="center">
+  <img height="432" src="https://i.pinimg.com/736x/bd/d1/53/bdd15371cb245054a9828e5993866de3.jpg"  />
 </div>
 
 ###
