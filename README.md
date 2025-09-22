@@ -45,10 +45,8 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manwelAC/manwelAC/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manwelAC/manwelAC/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/manwelAC/manwelAC/output/pacman-contribution-graph.svg">
-</picture>
+<div align="left">
+  <img height="200" src="https://i.pinimg.com/736x/bd/d1/53/bdd15371cb245054a9828e5993866de3.jpg"  />
+</div>
 
 ###
