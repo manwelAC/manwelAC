@@ -14,10 +14,15 @@
 
 ###
 
-<h2 align="left">Noobie techstacks</h2>
+<div align="center">
+  <img height="265" src="https://i.pinimg.com/originals/5d/91/a6/5d91a69ade488948d864eb0c1eeb83da.gif"  />
+</div>
 
 ###
 
+<h2 align="left">Noobie techstacks</h2>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -32,12 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="432" src="https://i.pinimg.com/736x/bd/d1/53/bdd15371cb245054a9828e5993866de3.jpg"  />
 </div>
 
 ###
