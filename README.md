@@ -12,7 +12,7 @@
 ✨ Currently learning: APP DEV
   <br>📚 Studying at University Of Caloocan City
   <br>🎯 Goals: to be able to say "College, Basic"
-  <br> :godmode: 
+  <br> :godmode: Works at: Intra-Code IT Solutions
   <br>Check out my Portfolio: https://mxnwel-portfolio.vercel.app/
 </p>
 
@@ -73,6 +73,56 @@ A web-based Booking System for Imajica Aesthetics (ERP)
   </tr>
 </table>
 
+<!-- ISA PANG PROJECTS HAHA -->
+
+<table>
+  <tr>
+    <!-- LEFT CARD -->
+    <td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Imajica Modular System-000000?style=for-the-badge" />
+</div>
+
+---
+
+#### **Description**
+A modular architecture implemented within a payroll system mainly for hiring employees.
+
+---
+
+#### **Tasks Completed**
+- Made a Embed link Module Youtube Videos to avoid storage overload
+- Made a Module creation that will include the YT videos and Quiz Customizations wherein
+users will decide for the answers (just like google forms)
+- Made a grading system for applicants that will take test
+- Made a certification for applicants that will passed the test
+
+
+    </td>
+
+    <!-- RIGHT CARD -->
+    <td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/UltraMRF-CD1C18?style=for-the-badge" />
+</div>
+
+---
+
+#### **Description**
+A web-based Payroll System for Automative Parts Store
+
+---
+
+#### **Tasks Completed**
+- Added NTE Management
+- Added Disciplinary Management
+- Added a LOA (List of Accountabilitiess) Management
+
+    </td>
+  </tr>
+</table>
 
 ###
 
