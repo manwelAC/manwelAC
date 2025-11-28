@@ -2,11 +2,13 @@
 
 ###
 <p align="left">Hi, I'm Mxnwel!</p>
+
 ###
 <h2 align="left">About me</h2>
-###
-<p align="left">✨ Currently learning: APP DEV<br>📚 Studying at University Of Caloocan City<br>🎯 Goals: to be able to say "College, Basic"<br>👾 Mainly plays Call of Duty: Mobile<br>Check out my Portfolio: https://mxnwel-portfolio.vercel.app/</p>
 
+###
+
+<p align="left">✨ Currently learning: APP DEV<br>📚 Studying at University Of Caloocan City<br>🎯 Goals: to be able to say "College, Basic"<br>👾 Mainly plays Call of Duty: Mobile<br>Check out my Portfolio: https://mxnwel-portfolio.vercel.app/</p>
 
 
 ###
