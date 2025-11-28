@@ -8,13 +8,19 @@
 
 ###
 
-<p align="left">✨ Currently learning: APP DEV<br>📚 Studying at University Of Caloocan City<br>🎯 Goals: to be able to say "College, Basic"<br>👾 Mainly plays Call of Duty: Mobile<br>Check out my Portfolio: https://mxnwel-portfolio.vercel.app/</p>
+<p align="left">
+✨ Currently learning: APP DEV
+  <br>📚 Studying at University Of Caloocan City
+  <br>🎯 Goals: to be able to say "College, Basic"
+  <br> :godmode: 
+  <br>Check out my Portfolio: https://mxnwel-portfolio.vercel.app/
+</p>
 
 
 ###
 
 <h2 align="center">Featured Project</h2>
-
+<p align="left">These are the projects that are from my work experiences.</p>
 ###
 
 <table>
