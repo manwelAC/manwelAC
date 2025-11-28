@@ -36,4 +36,58 @@
 </div>
 
 ###
+<h2 align="center">Featured Project</h2>
 
+###
+
+<table>
+  <tr>
+    <!-- LEFT CARD -->
+    <td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SHINRYO-000000?style=for-the-badge" />
+</div>
+
+---
+
+#### **Description**
+A private HRIS sub-system focused on improving internal processes  
+such as attendance, leave handling, and schedule management.
+
+---
+
+#### **Tasks Completed**
+- Created a custom timekeeping system  
+- Fixed and improved the leave management system  
+- Added flexi schedule customizations  
+- Revised the DTR viewing module
+- 
+
+    </td>
+
+    <!-- RIGHT CARD -->
+    <td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT%20NAME%20HERE-000000?style=for-the-badge" />
+</div>
+
+---
+
+#### **Description**
+A short description of your second project goes here.  
+You can describe the purpose, features, or what makes it special.
+
+---
+
+#### **Tasks Completed**
+- Task 1  
+- Task 2  
+- Task 3  
+
+    </td>
+  </tr>
+</table>
+
+###
