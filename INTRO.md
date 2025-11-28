@@ -52,8 +52,7 @@
 ---
 
 #### **Description**
-A private HRIS sub-system focused on improving internal processes  
-such as attendance, leave handling, and schedule management.
+A private HRIS sub-system focused on improving internal processes such as attendance, leave handling, and schedule management.
 
 ---
 
@@ -62,7 +61,7 @@ such as attendance, leave handling, and schedule management.
 - Fixed and improved the leave management system  
 - Added flexi schedule customizations  
 - Revised the DTR viewing module
-- 
+- Implemented a Complex Dtr Computation
 
     </td>
 
@@ -70,21 +69,22 @@ such as attendance, leave handling, and schedule management.
     <td width="50%" valign="top">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/PROJECT%20NAME%20HERE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Imajica Booking-06402B?style=for-the-badge" />
 </div>
 
 ---
 
 #### **Description**
-A short description of your second project goes here.  
-You can describe the purpose, features, or what makes it special.
+A web-based Booking System for Imajica Aesthetics (ERP)
 
 ---
 
 #### **Tasks Completed**
-- Task 1  
-- Task 2  
-- Task 3  
+- Revised the Whole System process
+- Made a POS System inside a Booking
+- Inventory Management
+- Product Management
+- Staff & Commission Management
 
     </td>
   </tr>
