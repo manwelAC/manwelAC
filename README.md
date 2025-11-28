@@ -21,6 +21,7 @@
 
 <h2 align="center">Featured Project</h2>
 <p align="left">These are the projects that are from my work experiences.</p>
+
 ###
 
 <table>
