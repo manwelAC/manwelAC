@@ -13,10 +13,9 @@
 ✨ Currently learning: APP DEV
   <br>📚 Studying at University Of Caloocan City
   <br>🎯 Goals: to be able to say "College, Basic"
-  <br> :godmode: Works at: Intra-Code IT Solutions
-  <br> Techstack learned:
-  <br> <br clear="both">
-
+  <br> :godmode: Full Stack Developer at: Intra-Code IT Solutions
+  <br> Language and stack learned:
+  <br clear="both">
 <div align="left">
   <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="15" alt="babel logo"  />
   <img width="5" />
