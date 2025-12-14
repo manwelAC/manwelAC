@@ -17,8 +17,6 @@
   <br> Language and stack learned:
   <br clear="both">
 <div align="left">
-  <img src="https://cdn.simpleicons.org/babel/F9DC3E" height="15" alt="babel logo"  />
-  <img width="5" />
   <img src="https://cdn.simpleicons.org/blender/F5792A" height="15" alt="blender logo"  />
   <img width="5" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="15" alt="bootstrap logo"  />
