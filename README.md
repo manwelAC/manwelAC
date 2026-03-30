@@ -47,7 +47,7 @@
 </div>
 
 ###
-  <br>Check out my Portfolio: https://manwe-ac-portfolio.vercel.app/
+  <br>Check out my Portfolio: https://manwel-ac-portfolio.vercel.app/
 </p>
 
 
