@@ -1,9 +1,10 @@
-# Hi! I'm 
+# Hi! I'm Manuel
 
-![image](manweltitle.png)
+
 
 ## About Me:
-Currently a working as Project-based at Intracode IT Solutions<br>Focusing on Payroll Websystem<br><br>
+Currently a working as Project-based at Intracode IT Solutions<br>Focusing on Payroll Websystem<br>
+
 Portfolio link: https://manuel-ac.vercel.app/ <br>
 
 ## 🌐 Socials:
